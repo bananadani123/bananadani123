@@ -1,4 +1,4 @@
-## Olha a cobra👋
+## Olha a cobra
 <p align="center">
   <!-- Animação da cobra em loop para perfil do GitHub -->
   <picture>
