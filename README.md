@@ -1,9 +1,8 @@
-## Olha a cobra
+## EU
 <div align="center">
 
 Daniel Silva
-Estudante de Informática · 19 anos · Portugal
-Portugal GitHub
+Estudante de Informática · 19 anos · Portugal GitHub
 
 </div>
 
