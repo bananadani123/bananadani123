@@ -7,7 +7,7 @@
   </picture>
 </p>
 <!--
-**bananadani123/bananadani123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bananadani123/bananadani123** is a ✨ _special_ ✨ repository because its `Cobra.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
